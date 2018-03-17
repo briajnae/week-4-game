@@ -1,0 +1,102 @@
+body {
+    background-image: url(../images/background.jpg);
+}
+
+
+#holder {
+    background-color: blueviolet;
+}
+
+#enemies {
+    background-color: black;
+}
+
+#logo {
+    width: 400px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+ 
+
+
+#neneL {
+    background-color: blue;
+    max-width: 180px;
+    max-height: 400px;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#kimZ {
+    background: pink;
+    max-width: 180px;
+    max-height: 400px;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+#shereeW {
+    background: orange;
+    max-width: 180px;
+    max-height: 400px;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kenyaMD {
+    background: yellow;
+    max-width: 180px;
+    max-height: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#holder, img {
+    width: 150px;
+    
+    
+}
+
+.name {
+    text-align: center;
+    color: white;
+}
+.footer, .push {
+    height: 50px;
+background-color: black;
+color: white;
+text-align: center; 
+}
+
+#defender {
+   
+    background-color: brown;
+}
+
+#fight {
+    background-color: white;
+}
